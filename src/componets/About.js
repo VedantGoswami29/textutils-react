@@ -1,6 +1,11 @@
 function About() {
   return (
-    <h1>Vedant Goswami Created This Page</h1>
+    <>
+      <div className="container">
+        <h1>Vedant Goswami Created This Page</h1>
+        <p>My name is very good.</p>
+      </div>
+    </>
   )
 }
 
